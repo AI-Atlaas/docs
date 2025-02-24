@@ -15,3 +15,9 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [API](basics/openapi.md)
 * [Integrations](basics/integrations.md)
+
+## Community
+
+* [Contribution](community/contribution.md)
+* [Gitbubd](https://github.com)
+* [Discord](https://discord)
