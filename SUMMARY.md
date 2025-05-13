@@ -20,4 +20,4 @@
 
 * [Contribution](community/contribution.md)
 * [Gitbubd](https://github.com)
-* [Discord](https://discord)
+* [Discord](https://discord.gg/pqMdntyVBU)
